@@ -1,0 +1,10 @@
+{
+  "name": "Tomodachi Life - Day Theme",
+  "description": "The Music From Tomodachi Life For The Nintendo 3DS",
+  "author": "ZeeGH",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
